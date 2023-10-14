@@ -2,7 +2,7 @@
 
 Welcome to our website dedicated to the iconic movie **Fight Club**. This cult classic, directed by **David Fincher**, explores themes of consumerism, identity, and rebellion. Let's dive into the world of *Fight Club*.
 
-![Fight Club Poster](https://www.example.com/fight-club-poster.jpg)
+![Fight Club Poster](https://www.themoviedb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg)
 
 ## Plot Summary
 
